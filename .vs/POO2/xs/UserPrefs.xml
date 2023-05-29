@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{53D43B02-E9D4-43E0-95B0-2C97BA123F89}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="POO2/Clases/Persona.cs">
+    <Files>
+      <File FileName="POO2/Clases/Persona.cs" Line="18" Column="49" />
+      <File FileName="POO2/Clases/Functions.cs" Line="58" Column="1" />
+      <File FileName="POO2/Clases/Operaciones.cs" Line="67" Column="29" />
+      <File FileName="POO2/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="POO2" expanded="True">
+            <Node name="POO2" expanded="True">
+              <Node name="Clases" expanded="True">
+                <Node name="Persona.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.POO2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
